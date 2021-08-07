@@ -23,5 +23,5 @@ Dataset link
 
 
 ### If you like this project please do give a star. I am also giving my LinkedIn profile. If you want we can connect there too.
-My LinkedIn I'd- 
+LinkedIn I'd- 
 https://www.linkedin.com/in/pallavi-sindkar-83b583203
