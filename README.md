@@ -5,7 +5,7 @@ A project on predicting whether it will rain tomorrow or not by using the Rainfa
 ## Workflow:
 
 ## Data Collection:
-Dataset link is below.
+Dataset link
  https://www.kaggle.com/jsphyg/weather-dataset-rattle-package 
  
 ## Data Preprocessing:
@@ -23,4 +23,5 @@ Dataset link is below.
 
 
 ### If you like this project please do give a star. I am also giving my LinkedIn profile. If you want we can connect there too.
-https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_top_card%3BgUAoiRPcQTGRqP8sUBqFSQ%3D%3D
+My LinkedIn I'd- 
+https://www.linkedin.com/in/pallavi-sindkar-83b583203
